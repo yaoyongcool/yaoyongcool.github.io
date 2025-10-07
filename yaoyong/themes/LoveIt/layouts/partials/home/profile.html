@@ -45,9 +45,6 @@
             {{- $socialArr := slice -}}
             {{- range $key, $value := .Site.Params.social -}}
                 {{- $social := $key | lower | index $socialMap | default dict -}}
-                {{- with $social.Alias -}}
-                    {{- $social = index $socialMap . | default dict -}}
-                {{- end -}}
                 {{- if $value -}}
                     {{- if reflect.IsMap $value -}}
                         {{- with $value.weight -}}
@@ -56,7 +53,7 @@
                         {{- with $value.prefix -}}
                             {{- $social = dict "Prefix" . | merge $social -}}
                         {{- end -}}
-                        {{- with index $value "template" -}}
+                        {{- with $value.template -}}
                             {{- $social = dict "Template" . | merge $social -}}
                         {{- end -}}
                         {{- with $value.id -}}
