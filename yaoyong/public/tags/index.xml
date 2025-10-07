@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Yao Yong‘s网站</title>
-    <link>//uildDrafts:1313/tags/</link>
+    <link>http://example.org/tags/</link>
     <description>Recent content in Tags on Yao Yong‘s网站</description>
     <generator>Hugo</generator>
     <language>zh-CN</language>
     <managingEditor>13852188216@163.com (姚勇)</managingEditor>
     <webMaster>13852188216@163.com (姚勇)</webMaster>
-    <atom:link href="//uildDrafts:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

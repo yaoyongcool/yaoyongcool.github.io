@@ -155,7 +155,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 
   # 网站图片, 用于 Open Graph 和 Twitter Cards
 
-  images = ["/logo.png"]
+  images = ["./logo.jpg"]
 
 
 
@@ -375,11 +375,11 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 
       # 主页显示头像的 URL
 
-      avatarURL = "/images/avatar.png"
+      avatarURL = "/static/logo.jpg"
 
       #  主页显示的网站标题 (支持 HTML 格式)
 
-      title = ""
+      title = "姚勇"
 
       # 主页显示的网站副标题 (允许 HTML 格式)
 
