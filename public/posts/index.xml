@@ -1,15 +1,15 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>All Posts - Yao Yong‘s网站</title>
-        <link>http://localhost:1313/posts/</link>
+        <link>https://yaoyongcool.github.io/posts/</link>
         <description>All Posts | Yao Yong‘s网站</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>13852188216@163.com (姚勇)</managingEditor>
-            <webMaster>13852188216@163.com (姚勇)</webMaster><lastBuildDate>Tue, 07 Oct 2025 11:36:57 &#43;0800</lastBuildDate><atom:link href="http://localhost:1313/posts/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>13852188216@163.com (姚勇)</webMaster><lastBuildDate>Tue, 07 Oct 2025 11:36:57 &#43;0800</lastBuildDate><atom:link href="https://yaoyongcool.github.io/posts/" rel="self" type="application/rss+xml" /><item>
     <title>First_post</title>
-    <link>http://localhost:1313/first_post/</link>
+    <link>https://yaoyongcool.github.io/first_post/</link>
     <pubDate>Tue, 07 Oct 2025 11:36:57 &#43;0800</pubDate>
     <author>姚勇</author>
-    <guid>http://localhost:1313/first_post/</guid>
+    <guid>https://yaoyongcool.github.io/first_post/</guid>
     <description><![CDATA[<h3 id="first_post">First_post</h3>]]></description>
 </item>
 </channel>
