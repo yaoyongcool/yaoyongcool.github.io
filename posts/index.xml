@@ -12,5 +12,16 @@
     <guid>https://yaoyongcool.github.io/first_post/</guid>
     <description><![CDATA[<h3 id="first_post">First_post</h3>]]></description>
 </item>
+<item>
+    <title>阅读笔记</title>
+    <link>https://yaoyongcool.github.io/9.28-10.4%E6%97%A5/</link>
+    <pubDate>Tue, 07 Oct 2025 11:36:57 &#43;0800</pubDate>
+    <author>姚勇</author>
+    <guid>https://yaoyongcool.github.io/9.28-10.4%E6%97%A5/</guid>
+    <description><![CDATA[<h4 id="llava-mini">LLaVA-mini</h4>
+<p><code>LLaVA-mini: efficient image and video large multimodal models with one vision token</code></p>
+<p><strong>主要内容</strong>：</p>
+<p>提出了一个基于查询的压缩方法和模态预融合。具体来说就是将视觉Token进行压缩，最少可以达到1个。但是视觉Token在前几layer比较重要，所以进行了模态预融合，不要降低精度。</p>]]></description>
+</item>
 </channel>
 </rss>
